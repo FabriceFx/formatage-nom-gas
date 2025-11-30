@@ -1,4 +1,4 @@
-# Boîte à Outils de Formatage de Texte GAS
+# Boîte à outils de formatage de texte GAS
 
 Ce projet est un script Google Apps Script conçu pour Google Sheets. Il déploie un menu "Outils Texte" permettant aux utilisateurs de formater rapidement des plages de données textuelles.
 
