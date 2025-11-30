@@ -1,9 +1,11 @@
 # Boîte à outils de formatage de texte GAS
 
-Ce projet est un script Google Apps Script conçu pour Google Sheets. Il déploie un menu "Outils Texte" permettant aux utilisateurs de formater rapidement des plages de données textuelles.
+![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
+![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
+![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
 
-**Auteur :** Fabrice Faucheux  
-**Version :** 1.1.0
+Ce projet est un script Google Apps Script conçu pour Google Sheets. Il déploie un menu "Outils Texte" permettant aux utilisateurs de formater rapidement des plages de données textuelles.
 
 ## Fonctionnalités clés
 
