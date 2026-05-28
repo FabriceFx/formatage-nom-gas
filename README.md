@@ -1,9 +1,15 @@
 # Boîte à outils de formatage de texte GAS
 
+
+[🇫🇷 Version Française](#-version-française) | [🇬🇧 English Version](#-english-version)
+
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
+
+## 🇫🇷 Version Française
+
 
 Ce projet est un script Google Apps Script conçu pour Google Sheets. Il déploie un menu "Outils Texte" permettant aux utilisateurs de formater rapidement des plages de données textuelles.
 
@@ -32,3 +38,12 @@ Ce projet est un script Google Apps Script conçu pour Google Sheets. Il déploi
 2.  Cliquez sur **Outils Texte** dans la barre de menu.
 3.  Choisissez la transformation souhaitée.
 4.  Une notification confirmera le nombre de cellules modifiées.
+
+
+---
+## 🇬🇧 English Version
+
+> English translation coming soon.
+
+---
+<p align="center"><a href="https://faucheux.bzh" target="_blank" style="color: inherit; text-decoration: none;">&lt;&gt; par Fabrice Faucheux</a></p>
